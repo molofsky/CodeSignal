@@ -1,4 +1,4 @@
 # CodeSignal
-My solutions to CodeSignal Arcade
+My solutions to CodeSignal
 
 https://app.codesignal.com/
